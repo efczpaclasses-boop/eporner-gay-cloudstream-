@@ -1,0 +1,8 @@
+{
+  "name": "Eporner Gay CloudStream",
+  "description": "18+ gay-only CloudStream extension repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/efczpaclasses-boop/eporner-gay-cloudstream-/builds/plugins.json"
+  ]
+}
